@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 210" width="960" height="210" role="img" aria-labelledby="title">
+  <title id="title">Vrachtplanner</title>
+  <defs>
+    <linearGradient id="background" x2="1" y2="1">
+      <stop stop-color="#151a24"/>
+      <stop offset=".58" stop-color="#852124"/>
+      <stop offset="1" stop-color="#b72c27"/>
+    </linearGradient>
+  </defs>
+  <rect width="960" height="210" rx="18" fill="url(#background)"/>
+  <path d="M0 172c154-31 267 33 442 24s295-74 518-52v48a18 18 0 0 1-18 18H18a18 18 0 0 1-18-18z" fill="#171b25" opacity=".42"/>
+  <path d="M0 194c169-22 303 17 466 8s309-42 494-23v13a18 18 0 0 1-18 18H18a18 18 0 0 1-18-18z" fill="#171b25" opacity=".64"/>
+  <g fill="#fff" text-anchor="middle" font-family="system-ui,Segoe UI,sans-serif">
+    <text x="480" y="112" font-size="62" font-weight="750">Vrachtplanner</text>
+  </g>
+</svg>
