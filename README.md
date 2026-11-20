@@ -79,6 +79,8 @@ Beheerders openen **Historie & analyse** om registraties, afwijkingen van de nor
 
 Onder **Historie & analyse → Medewerkers** staat het tabblad voor normafwijkingen per medewerker. De analyse gebruikt de geselecteerde periode, afgeronde vrachten en de daarbij opgeslagen roosters. Deze functie staat uit zolang gebruik van persoonsgebonden gegevens voor deze analyse niet is goedgekeurd.
 
+Na goedkeuring kiest een platformbeheerder in **Beheer → Filialen** het betreffende filiaal, vinkt **Medewerkersanalyse inschakelen** aan en kiest **Filiaal opslaan**. Via dezelfde instelling kan de analyse weer worden uitgeschakeld.
+
 </details>
 
 <details>
@@ -112,6 +114,7 @@ Tijden zijn in Nederlandse tijd. Het overzicht begint bij de opening van de open
 
 | Datum | Tijd | Wat is er veranderd? |
 | --- | --- | --- |
+| 20 nov 2026 | 15:15 | Platformbeheerders kunnen de medewerkersanalyse per filiaal aan- en uitzetten. |
 | 20 nov 2026 | 15:00 | Het tabblad Medewerkers vervangt de fictieve demo. Persoonsgebonden analyse blijft uitgeschakeld. |
 | 20 nov 2026 | 12:45 | Beheerders kunnen onder Historie & analyse dagparen en onzekerheid verkennen met fictieve medewerkers en vrachtdagen. |
 | 14 nov 2026 | 00:04 | Dit updateoverzicht toegevoegd aan de gebruikersgids. |
