@@ -79,6 +79,8 @@ Beheerders openen **Historie & analyse** om registraties, afwijkingen van de nor
 
 Onder **Historie & analyse → Medewerkers** staat het tabblad voor normafwijkingen per medewerker. De analyse gebruikt de geselecteerde periode, afgeronde vrachten en de daarbij opgeslagen roosters. Deze functie staat uit zolang gebruik van persoonsgebonden gegevens voor deze analyse niet is goedgekeurd.
 
+De staafgrafiek **Gemiddelde afwijking met overlap** toont per medewerker het gemiddelde uit de kolom **Gem. met overlap**. Links betekent eerder klaar dan de norm, rechts later.
+
 Na goedkeuring kiest een platformbeheerder in **Beheer → Filialen** het betreffende filiaal, vinkt **Medewerkersanalyse inschakelen** aan en kiest **Filiaal opslaan**. Via dezelfde instelling kan de analyse weer worden uitgeschakeld.
 
 </details>
@@ -114,6 +116,7 @@ Tijden zijn in Nederlandse tijd. Het overzicht begint bij de opening van de open
 
 | Datum | Tijd | Wat is er veranderd? |
 | --- | --- | --- |
+| 20 nov 2026 | 15:21 | Medewerkers toont een staafgrafiek met de gemiddelde normafwijking op dagen met overlap. |
 | 20 nov 2026 | 15:15 | Platformbeheerders kunnen de medewerkersanalyse per filiaal aan- en uitzetten. |
 | 20 nov 2026 | 15:00 | Het tabblad Medewerkers vervangt de fictieve demo. Persoonsgebonden analyse blijft uitgeschakeld. |
 | 20 nov 2026 | 12:45 | Beheerders kunnen onder Historie & analyse dagparen en onzekerheid verkennen met fictieve medewerkers en vrachtdagen. |
