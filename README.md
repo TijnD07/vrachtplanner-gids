@@ -6,7 +6,7 @@
 
 [![Open de Vrachtplanner](https://img.shields.io/badge/Open_de_Vrachtplanner-BA2925?style=for-the-badge&logo=googlechrome&logoColor=white)](https://vrachtplanner.tijnd.nl/)
 
-[Gebruikersgids](#gebruikersgids) · [Rekenregels](#hoe-rekent-de-planner)
+[Gebruikersgids](#gebruikersgids) · [Updates](#updates) · [Rekenregels](#hoe-rekent-de-planner)
 
 </div>
 
@@ -75,7 +75,9 @@ Vink **Link naar deze planning toevoegen** aan als je de filiaal- en datumlink w
 
 Leidinggevenden en beheerders klikken op **Vracht klaar**, controleren de werkelijke eindtijd en kunnen het aantal gereedgemaakte trolleys invullen. Bij de registratie bewaart de server de berekende prognose, het rooster, de normen en de gebruikte brongegevens. Correcties vragen om een reden en worden aan de historie toegevoegd.
 
-Beheerders openen **Historie & analyse** om registraties, voorspelfouten, brongegevens en normversies te bekijken. De periodefilter geldt ook voor CSV- en JSON-exports.
+Beheerders openen **Historie & analyse** om registraties, afwijkingen van de normtijd, brongegevens en normversies te bekijken. De periodefilter geldt ook voor CSV- en JSON-exports.
+
+Onder **Analyse → Medewerkersanalyse met voorbeeldgegevens** kun je twee fictieve vrachtdagen vergelijken. Kies een voorbeeldmedewerker om te zien hoeveel dagen vergelijkbaar zijn, hoeveel eerder of later het team klaar was ten opzichte van de norm en hoe gevoelig de uitkomst is voor één dagpaar. De demo gebruikt uitsluitend fictieve roosters en toont bij onvoldoende gegevens waarom een schatting ontbreekt.
 
 </details>
 
@@ -100,6 +102,29 @@ Voor een bestaand actief account gebruik je **Account bewerken → Wachtwoord re
 </details>
 
 ---
+
+## Updates
+
+<details>
+<summary><strong>🆕 Bekijk wat er is veranderd</strong></summary>
+
+Tijden zijn in Nederlandse tijd. Het overzicht begint bij de opening van de openbare gids op 13 november en bevat ook de live updates van die dag.
+
+| Datum | Tijd | Wat is er veranderd? |
+| --- | --- | --- |
+| 20 nov 2026 | 12:45 | Beheerders kunnen onder Historie & analyse dagparen en onzekerheid verkennen met fictieve medewerkers en vrachtdagen. |
+| 14 nov 2026 | 00:04 | Dit updateoverzicht toegevoegd aan de gebruikersgids. |
+| 13 nov 2026 | 23:09 | De gebruikersgids is openbaar beschikbaar en kan worden gedeeld. |
+| 13 nov 2026 | 22:53 | Medewerkers kunnen zelf hun wachtwoord kiezen via een eenmalige uitnodigings- of resetlink. |
+| 13 nov 2026 | 22:27 | Extra inzet heeft een schuifregelaar. **Gebruik bronrooster** staat ook onder **Personeel**. |
+| 13 nov 2026 | 22:17 | Streeftijd per vrachtdag, voorstellen voor extra inzet en een kopieerbare groepsoproep toegevoegd. Opgeslagen brongegevens blijven zichtbaar bij een storing. Bij aankomst staat of de vracht binnen het levervenster viel. |
+| 13 nov 2026 | 21:57 | De voorbereiding begint volgens het rooster. Het overzicht toont de berekende starttijd als er geen aankomsttijd beschikbaar is. |
+| 13 nov 2026 | 21:47 | WhatsApp krijgt een korte en uitgebreide versie, een voorbeeld en een optionele link. |
+| 13 nov 2026 | 21:32 | De uitleg staat direct onder **Overig werk** en **Kassa opmaken**. |
+| 13 nov 2026 | 21:28 | De planner reserveert twee medewerkers tegelijk voor kassa-opmaak. |
+| 13 nov 2026 | 21:25 | Kassa-opmaak kreeg een eigen instelling bij **Voorbereiding en overige werkzaamheden**. |
+
+</details>
 
 ## Wie kan wat?
 
